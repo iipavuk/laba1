@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">laba1</string>
+    <string name="button_text">Go to Activity Two</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
